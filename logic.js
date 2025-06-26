@@ -1,6 +1,6 @@
 const a=10;
-function sum(a)
+function myFun(a)
 {
-    sum=sum+a;
+    document.writeln("hello Github!");
 }
 
