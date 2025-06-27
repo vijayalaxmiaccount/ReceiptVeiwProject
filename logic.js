@@ -1,6 +1,6 @@
-const a=10;
-function myFun(a)
+
+function myFun()
 {
-    document.writeln("hello Github!");
+    alert("hello Github!");
 }
 
